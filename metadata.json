@@ -1,0 +1,6 @@
+{
+  "name": "PetGroom Pro",
+  "description": "專業寵物美容預約與會員管理系統，包含行事曆、病史紀錄、耗材提醒及飼主端介面。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
